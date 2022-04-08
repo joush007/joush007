@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joush007
 - 👀 I have eyes
 - 🌱 I also have a plant
-- 💞️ I now have 2 hearts, hope you don't mind me borrowing yours...
 - 📫 Mail is able to reach me
 
 <!---
